@@ -1,0 +1,20 @@
+{
+    "Author": "William (Microsoft)",
+    "ContentSize": 23207,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-use-azure-file-service/master/Azure_Files.ps1",
+    "DownloadCount": 1522,
+    "Id": "Azure-Use-Azure-File-ef3274fb",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 548,
+    "RaterCount": 3,
+    "Rating": 3.7,
+    "ReleaseDate": "2014-8-14T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This PowerShell script allows the; creation of a Azure File share, removal a Azure File share, and printing the net use command for use in the Azure VM",
+    "Title": "Azure: Use Azure File Service",
+    "UpdatedDate": "2015-4-7T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-use-azure-file-service",
+    "UserTags": "Azure, Microsoft Azure, Powershell"
+}
